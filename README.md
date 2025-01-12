@@ -1,4 +1,4 @@
-# Student Dataset Cleaning and analysis
+# Student Dataset Cleaning and Analysis
 
 ### Project Overview
 
