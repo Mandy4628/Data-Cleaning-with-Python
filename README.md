@@ -54,6 +54,6 @@ Python
 
 ### References
 
-"Python for Data Analysis" by Wes McKinney
-[Stack overflow](https://stack.com)
+1. "Python for Data Analysis" by Wes McKinney
+2. [Stack overflow](https://stack.com)
 
